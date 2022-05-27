@@ -1,1 +1,3 @@
-computer science major at Northwestern University.
+math major living incognito writing code.
+
+@ northwestern university
