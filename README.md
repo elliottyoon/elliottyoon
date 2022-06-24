@@ -4,7 +4,7 @@ math major living incognito writing code.
 
 ---
 
-I'm always jamming some tunes; here's a taste:
+I'm always jamming to some tunes; here's a taste:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elinate91&cover_image=true&theme=novatorem)](https://open.spotify.com/playlist/1jatIM4dLmLiWvBpdzIDK8)
 
