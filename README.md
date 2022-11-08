@@ -10,7 +10,7 @@ I'm always jamming to some tunes; here's a taste:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliottyoon)](https://github.com/elliottyoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliottyoon&langs_count=10)](https://github.com/elliottyoon/github-readme-stats)
 
 ---
 
