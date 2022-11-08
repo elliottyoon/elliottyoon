@@ -10,6 +10,10 @@ I'm always jamming to some tunes; here's a taste:
 
 ---
 
+[!Hello](https://github-readme-stats.vercel.app/api?username=elliottyoon)](https://github.com/elliottyoon/github-readme-stats)
+
+---
+
 Visit [my portfolio website](https://elliottyoon.github.io) to see my showcased projects!
 
 
