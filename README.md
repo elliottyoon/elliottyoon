@@ -4,6 +4,6 @@ math major living incognito writing code.
 
 ---
 
-Visit [my (outdated) portfolio website](https://elliottyoon.github.io) to see my showcased projects!
+Visit [my (outdated) website](https://elliottyoon.github.io), if you're into that portfolios, resumés, and those sorts of things.
 
 
